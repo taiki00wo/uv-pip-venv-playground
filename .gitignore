@@ -1,0 +1,7 @@
+sources/
+experiments/**/.venv/
+experiments/**/venv/
+std-venv/
+uv-venv/
+__pycache__/
+.DS_Store
